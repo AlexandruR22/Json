@@ -1,35 +1,35 @@
 {
   "users": [
   {
-    "name": "Chest",
-    "score": "544"
+    "name": "Alex",
+    "score": "32"
   },
   {
-    "name": "Chest",
-    "score": "542"
-  },
-  {
-    "name": "Abs",
+    "name": "Mihai",
     "score": "65"
   },
   {
-    "name": "Legs",
-    "score": "921"
+    "name": "Gabi",
+    "score": "54"
   },
   {
-    "name": "Arms",
+    "name": "Catalin",
+    "score": "11"
+  },
+  {
+    "name": "Cezar",
     "score": "89"
   },
   {
-    "name": "Shoulders",
+    "name": "Andrei",
     "score": "23"
   },
   {
-    "name": "Shoulders",
-    "score": "984"
+    "name": "David",
+    "score": "34"
   },
   {
-    "name": "Shoulders",
+    "name": "Ion",
     "score": "76"
   }
 ]
